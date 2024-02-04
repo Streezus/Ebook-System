@@ -258,7 +258,8 @@
      </div> 
    </div>
  <!-- End of Old Book -->
-     
+ <!-- footer -->
+ <%@include file="allComponents/Footer.jsp" %>
   
 </body>
 </html>
